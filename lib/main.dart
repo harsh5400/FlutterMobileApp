@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Second Project You have pushed the button this many times:',
+              'Third Project You have pushed the button this many times:',
             ),
             Text(
               '$_counter',
