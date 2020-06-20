@@ -83,7 +83,7 @@ MusicPlayer musicPlayer;
                       coverUrl: 'https://goo.gl/Wd1yPP',
                       duration: Duration(seconds: 255),
                     )),
-                child: Text('Play'),
+                child: Text('Play1'),
               ),
               RaisedButton(
                 onPressed: () => musicPlayer.stop(),
